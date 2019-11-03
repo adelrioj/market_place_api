@@ -4,6 +4,8 @@ Rails.application.routes.draw do
       resources :users, only: %i[show create update destroy]
 
       resources :tokens, only: [:create]
+
+      resources :products
     end
   end
 end

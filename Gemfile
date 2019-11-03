@@ -42,3 +42,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # JSON web token, for user auth
 gem 'jwt', '~> 2.2'
+
+gem "faker", "~> 2.6"

@@ -51,4 +51,4 @@ gem "faker", "~> 2.6"
 gem "fast_jsonapi", "~> 1.5"
 
 #pagination
-gem "kaminari", "~> 1.1"
+gem "kaminari", "~> 1.2"
